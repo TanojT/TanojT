@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TanojT
+- 👀 I’m interested in working on Java FullStack Web Development(React/Angular) and I am exploring AWS CDK
+- 🌱 I’m currently learning AWS CDK, React
+- 💞️ I’m looking to collaborate on Java Web Development and AWS CDK
+- 📫 To reach me drop a mail to 'ttelikepalli@gmail.com'
